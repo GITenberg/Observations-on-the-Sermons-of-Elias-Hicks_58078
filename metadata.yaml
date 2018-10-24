@@ -1,0 +1,24 @@
+_repo: Observations-on-the-Sermons-of-Elias-Hicks_58078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waln, Robert
+    birthdate: 1765
+    deathdate: 1836
+    gutenberg_agent_id: '49765'
+    url: http://www.gutenberg.org/2009/agents/49765
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Waln
+description: ''
+gutenberg_issued: '2018-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Society of Friends -- Hicksite controversy'
+- GITenberg
+title: Observations on the Sermons of Elias Hicks
+url: http://www.gutenberg.org/ebooks/58078
